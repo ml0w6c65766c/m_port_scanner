@@ -1,6 +1,6 @@
 # MPortScanner
 
-A simple TCP port scanner written in C — built as a learning project.
+A simple TCP port scanner written in C (built as a learning project).
 
 ## Build
 
@@ -18,12 +18,12 @@ Enter the target IP and a port range when prompted. The scanner will show all op
 
 ## How It Works
 
-For each port in the range, it tries to open a TCP connection. If it succeeds, the port is open. If not, it's closed.
+For each port in the range, it tries to open a TCP connection. If it succeeds, the port is open. If not, its closed.
 
 ## Note
 
 Only scan systems you own or have permission to test.
 
-## Author
+## Leave a Star 
 
-Made by [ml0w6c65766c](https://github.com/ml0w6c65766c)
+If you like this project feel free to leave a star.
