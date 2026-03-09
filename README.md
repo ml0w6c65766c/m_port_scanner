@@ -14,7 +14,7 @@ gcc portscanner.c -o portscanner
 ./portscanner
 ```
 
-Enter the target IP and a port range when prompted. The scanner will show all open ports.
+Enter the target IP and a port range. The scanner will show all open ports.
 
 ## How It Works
 
