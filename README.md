@@ -1,5 +1,7 @@
 # MPortScanner
 
+![Screenshot](example.png)
+
 A simple TCP port scanner written in C (built as a learning project).
 
 ## Build
