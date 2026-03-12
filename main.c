@@ -28,8 +28,8 @@ void ascii_banner() {
         "    / /  / /  / ____/ /_/ / /  / /_ ___/ / /__/ /_/ / / / / / / /  __/ /    \n"
         "   /_/  /_/  /_/    \\____/_/   \\__//____/\\___/\\__,_/_/ /_/_/ /_/\\___/_/     \n"
         "                                                                              \n"
-        "   [*]simple portscanner v0.1                                                                           \n"
-        "   [*]made by Github: https://github.com/ml0w6c65766c                                                 \n"
+        "   [*] simple portscanner v0.1                                                                           \n"
+        "   [*] made by Github: https://github.com/ml0w6c65766c                                                 \n"
         "\n"
         "\n"
     );
