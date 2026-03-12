@@ -54,11 +54,11 @@ int scan_port(int port) {
 
     // 
     if (connect(sock, (struct sockaddr*)&target, sizeof(target)) == 0) { // connect has 3 parameters sock(eg. 3), the size and where to connect(ip + target) 
-        close(sock);  // closes sock (eg. 3, view "var int sock"
+        close(sock);  // closes sock (eg. 3, view "var int sock")
         return 1; // Port open
     }
 
-    close(sock);  // closes sock (eg. 3, view "var int sock"
+    close(sock);  // closes sock (eg. 3, view "var int sock")
     return 0; // Port closed
 }
 
